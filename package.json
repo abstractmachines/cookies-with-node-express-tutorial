@@ -1,0 +1,15 @@
+{
+  "name": "cookies-express-tutorial",
+  "version": "1.0.0",
+  "description": "A bare bones, quick project using express with cookies https://www.codementor.io/noddy/cookie-management-in-express-js-du107rmna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2"
+  }
+}
